@@ -1,0 +1,19 @@
+The sound "wall_bounce" was produced by dersuperanton freesound.org.
+
+The sound "respawn" was produced by FartBiscuit1700 freesound.org.
+
+The sprite "spr_coin" and its animation is produced by Dan Sevenstar -DontMind8- on opengameart.org 
+
+The sound "coins" was produced by ProjectsU012 on https://freesound.org/s/341695/
+
+The sound "item_pickup" was produced by TreasureSounds on https://freesound.org/s/332629/
+
+The sound "reward-notification" was produced by Joao_Janz on https://freesound.org/s/504784/
+
+The sound "ufo__bounce" was produced by JustInvoke on https://freesound.org/s/446100/
+
+The sound "bounce_bottom" was produced by bumpelsnake on https://freesound.org/s/456563/
+
+The sound "switch_cloud" was produced by joedeshon on https://freesound.org/s/119415/
+
+The sound "cloud_fall" was produced by InspectorJ on https://freesound.org/s/402581/
